@@ -46,7 +46,8 @@
 	$page->setTitle(ATL_DEFAULT_TITLE);
 
 	// initialize the extended controller
-	if (include('controllers/'.$extend.'_controller.php')) {
+	if (file_exists('controllers/'.$extend.'_controller.php')) {
+		include('controllers/'.$extend.'_controller.php');
 		$$extend = new $extend;
 		if (method_exists($$extend, $action)) {
 			$$extend->{$action}($action_id);

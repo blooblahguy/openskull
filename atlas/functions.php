@@ -42,6 +42,8 @@
 				<? }
 			}
 		}
+
+		// message reporting
 	}
 
 	function includeView($filename, $hideOnAjax = false) {

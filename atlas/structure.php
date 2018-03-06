@@ -1,7 +1,7 @@
 <?php
 	// options
 	$intlen = 7; // 7 = 9,999,999 records
-	$prefix = 'atl_'; // for ease of extensibility
+	$prefix = ATL_DB_PREFIX; // for ease of extensibility
 	$hashtable = $prefix.'hashtable'; // what we use to cache this structure
 
 	// here's our schema for the entire database

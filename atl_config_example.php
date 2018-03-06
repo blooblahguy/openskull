@@ -2,9 +2,9 @@
 
 // Database Connection
 define("ATL_DB_HOST", 'localhost');
-define("ATL_DB_NAME", 'atlas_mvc');
-define("ATL_DB_USER", 'root');
-define("ATL_DB_PASSWORD", '');
+define("ATL_DB_NAME", 'database');
+define("ATL_DB_USER", 'user');
+define("ATL_DB_PASSWORD", 'password');
 
 // Variable
 define("ATL_DB_PREFIX", "atl_");
