@@ -1,0 +1,1103 @@
+[05-Mar-2018 11:36:10 America/Chicago] PHP Recoverable fatal error:  Object of class controller could not be converted to string in /home/blooblah/public_html/dev/grimporium/index.php on line 32
+[05-Mar-2018 11:36:10 America/Chicago] PHP Recoverable fatal error:  Object of class controller could not be converted to string in /home/blooblah/public_html/dev/grimporium/index.php on line 32
+[05-Mar-2018 12:00:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/blooblah/public_html/dev/grimporium/core/structure.php:25
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 25
+[05-Mar-2018 12:00:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/blooblah/public_html/dev/grimporium/core/structure.php:25
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 25
+[05-Mar-2018 12:00:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/blooblah/public_html/dev/grimporium/core/structure.php:25
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 25
+[05-Mar-2018 12:06:13 America/Chicago] PHP Parse error:  syntax error, unexpected '$qry' (T_VARIABLE) in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 41
+[05-Mar-2018 12:06:14 America/Chicago] PHP Parse error:  syntax error, unexpected '$qry' (T_VARIABLE) in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 41
+[05-Mar-2018 12:06:14 America/Chicago] PHP Parse error:  syntax error, unexpected '$qry' (T_VARIABLE) in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 41
+[05-Mar-2018 12:06:15 America/Chicago] PHP Parse error:  syntax error, unexpected '$qry' (T_VARIABLE) in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 41
+[05-Mar-2018 12:20:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function hashTable() in /home/blooblah/public_html/dev/grimporium/core/structure.php:42
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 42
+[05-Mar-2018 12:20:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function hashTable() in /home/blooblah/public_html/dev/grimporium/core/structure.php:42
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 42
+[05-Mar-2018 12:20:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function hashTable() in /home/blooblah/public_html/dev/grimporium/core/structure.php:42
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 42
+[05-Mar-2018 12:20:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function hashTable() in /home/blooblah/public_html/dev/grimporium/core/structure.php:42
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 42
+[05-Mar-2018 12:20:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function hashTable() in /home/blooblah/public_html/dev/grimporium/core/structure.php:42
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 42
+[05-Mar-2018 12:20:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function hashTable() in /home/blooblah/public_html/dev/grimporium/core/structure.php:42
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 42
+[05-Mar-2018 12:24:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/blooblah/public_html/dev/grimporium/core/structure.php:43
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 43
+[05-Mar-2018 12:24:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/blooblah/public_html/dev/grimporium/core/structure.php:43
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 43
+[05-Mar-2018 12:24:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/blooblah/public_html/dev/grimporium/core/structure.php:43
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 43
+[05-Mar-2018 12:24:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/blooblah/public_html/dev/grimporium/core/structure.php:43
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 43
+[05-Mar-2018 12:25:24 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/blooblah/public_html/dev/grimporium/core/structure.php:44
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 44
+[05-Mar-2018 12:25:24 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/blooblah/public_html/dev/grimporium/core/structure.php:44
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 44
+[05-Mar-2018 12:25:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/blooblah/public_html/dev/grimporium/core/structure.php:43
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 43
+[05-Mar-2018 12:26:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/blooblah/public_html/dev/grimporium/core/structure.php:43
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 43
+[05-Mar-2018 12:26:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/blooblah/public_html/dev/grimporium/core/structure.php:43
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 43
+[05-Mar-2018 12:26:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/blooblah/public_html/dev/grimporium/core/structure.php:43
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 43
+[05-Mar-2018 12:26:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/blooblah/public_html/dev/grimporium/core/structure.php:43
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 43
+[05-Mar-2018 12:26:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/blooblah/public_html/dev/grimporium/core/structure.php:43
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 43
+[05-Mar-2018 12:26:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/blooblah/public_html/dev/grimporium/core/structure.php:43
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 43
+[05-Mar-2018 12:26:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/blooblah/public_html/dev/grimporium/core/structure.php:43
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 43
+[05-Mar-2018 12:26:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/blooblah/public_html/dev/grimporium/core/structure.php:43
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 43
+[05-Mar-2018 12:27:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/blooblah/public_html/dev/grimporium/core/structure.php:43
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 43
+[05-Mar-2018 12:27:44 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/blooblah/public_html/dev/grimporium/core/structure.php:43
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 43
+[05-Mar-2018 12:30:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/blooblah/public_html/dev/grimporium/core/structure.php:43
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 43
+[05-Mar-2018 12:30:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/blooblah/public_html/dev/grimporium/core/structure.php:43
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 43
+[05-Mar-2018 12:31:23 America/Chicago] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/blooblah/public_html/dev/grimporium/core/functions.php on line 10
+[05-Mar-2018 12:31:23 America/Chicago] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/blooblah/public_html/dev/grimporium/core/functions.php on line 10
+[05-Mar-2018 12:31:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/blooblah/public_html/dev/grimporium/core/functions.php on line 10
+[05-Mar-2018 12:31:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/blooblah/public_html/dev/grimporium/core/functions.php on line 10
+[05-Mar-2018 12:31:29 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/blooblah/public_html/dev/grimporium/core/functions.php on line 17
+[05-Mar-2018 12:31:29 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/blooblah/public_html/dev/grimporium/core/functions.php on line 17
+[05-Mar-2018 12:31:29 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/blooblah/public_html/dev/grimporium/core/functions.php on line 17
+[05-Mar-2018 12:31:29 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/blooblah/public_html/dev/grimporium/core/functions.php on line 17
+[05-Mar-2018 12:33:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/blooblah/public_html/dev/grimporium/core/structure.php:43
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 43
+[05-Mar-2018 12:33:24 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/blooblah/public_html/dev/grimporium/core/structure.php:43
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 43
+[05-Mar-2018 12:33:24 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/blooblah/public_html/dev/grimporium/core/structure.php:43
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 43
+[05-Mar-2018 12:33:24 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/blooblah/public_html/dev/grimporium/core/structure.php:43
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 43
+[05-Mar-2018 12:33:25 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/blooblah/public_html/dev/grimporium/core/structure.php:43
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 43
+[05-Mar-2018 12:33:25 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/blooblah/public_html/dev/grimporium/core/structure.php:43
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 43
+[05-Mar-2018 12:33:26 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/blooblah/public_html/dev/grimporium/core/structure.php:43
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 43
+[05-Mar-2018 12:33:26 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/blooblah/public_html/dev/grimporium/core/structure.php:43
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 43
+[05-Mar-2018 12:33:26 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/blooblah/public_html/dev/grimporium/core/structure.php:43
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 43
+[05-Mar-2018 12:33:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/blooblah/public_html/dev/grimporium/core/structure.php:43
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 43
+[05-Mar-2018 12:33:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/blooblah/public_html/dev/grimporium/core/structure.php:43
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 43
+[05-Mar-2018 12:33:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/blooblah/public_html/dev/grimporium/core/structure.php:43
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 43
+[05-Mar-2018 12:34:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/blooblah/public_html/dev/grimporium/core/structure.php:39
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 39
+[05-Mar-2018 12:34:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/blooblah/public_html/dev/grimporium/core/structure.php:39
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 39
+[05-Mar-2018 12:34:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/blooblah/public_html/dev/grimporium/core/structure.php:39
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 39
+[05-Mar-2018 12:34:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/blooblah/public_html/dev/grimporium/core/structure.php:39
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 39
+[05-Mar-2018 12:34:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/blooblah/public_html/dev/grimporium/core/structure.php:39
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 39
+[05-Mar-2018 12:34:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/blooblah/public_html/dev/grimporium/core/structure.php:39
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 39
+[05-Mar-2018 12:34:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/blooblah/public_html/dev/grimporium/core/structure.php:39
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 39
+[05-Mar-2018 12:34:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/blooblah/public_html/dev/grimporium/core/structure.php:39
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 39
+[05-Mar-2018 12:34:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/blooblah/public_html/dev/grimporium/core/structure.php:39
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 39
+[05-Mar-2018 12:34:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/blooblah/public_html/dev/grimporium/core/structure.php:39
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 39
+[05-Mar-2018 12:34:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/blooblah/public_html/dev/grimporium/core/structure.php:39
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 39
+[05-Mar-2018 12:34:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/blooblah/public_html/dev/grimporium/core/structure.php:39
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 39
+[05-Mar-2018 12:35:03 America/Chicago] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function fetchAll(), 0 passed in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 34 and exactly 1 expected in /home/blooblah/public_html/dev/grimporium/core/functions.php:4
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/structure.php(34): fetchAll()
+#1 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once('/home/blooblah/...')
+#2 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#3 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/functions.php on line 4
+[05-Mar-2018 12:35:04 America/Chicago] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function fetchAll(), 0 passed in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 34 and exactly 1 expected in /home/blooblah/public_html/dev/grimporium/core/functions.php:4
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/structure.php(34): fetchAll()
+#1 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once('/home/blooblah/...')
+#2 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#3 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/functions.php on line 4
+[05-Mar-2018 12:35:04 America/Chicago] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function fetchAll(), 0 passed in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 34 and exactly 1 expected in /home/blooblah/public_html/dev/grimporium/core/functions.php:4
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/structure.php(34): fetchAll()
+#1 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once('/home/blooblah/...')
+#2 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#3 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/functions.php on line 4
+[05-Mar-2018 12:35:05 America/Chicago] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function fetchAll(), 0 passed in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 34 and exactly 1 expected in /home/blooblah/public_html/dev/grimporium/core/functions.php:4
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/structure.php(34): fetchAll()
+#1 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once('/home/blooblah/...')
+#2 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#3 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/functions.php on line 4
+[05-Mar-2018 12:38:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function fetchAll() in /home/blooblah/public_html/dev/grimporium/core/structure.php:34
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 34
+[05-Mar-2018 12:40:41 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 35
+[05-Mar-2018 12:41:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on array in /home/blooblah/public_html/dev/grimporium/core/structure.php:36
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 36
+[05-Mar-2018 12:41:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on array in /home/blooblah/public_html/dev/grimporium/core/structure.php:36
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 36
+[05-Mar-2018 12:41:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on array in /home/blooblah/public_html/dev/grimporium/core/structure.php:36
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 36
+[05-Mar-2018 12:41:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on array in /home/blooblah/public_html/dev/grimporium/core/structure.php:36
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 36
+[05-Mar-2018 14:35:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/blooblah/public_html/dev/grimporium/core/structure.php:84
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 84
+[05-Mar-2018 14:35:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/blooblah/public_html/dev/grimporium/core/structure.php:84
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 84
+[05-Mar-2018 14:35:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/blooblah/public_html/dev/grimporium/core/structure.php:85
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 85
+[05-Mar-2018 14:35:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/blooblah/public_html/dev/grimporium/core/structure.php:85
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 85
+[05-Mar-2018 14:35:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/blooblah/public_html/dev/grimporium/core/structure.php:85
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 85
+[05-Mar-2018 14:35:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/blooblah/public_html/dev/grimporium/core/structure.php:85
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 85
+[05-Mar-2018 14:36:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/blooblah/public_html/dev/grimporium/core/structure.php:85
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 85
+[05-Mar-2018 14:36:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/blooblah/public_html/dev/grimporium/core/structure.php:85
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 85
+[05-Mar-2018 14:36:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/blooblah/public_html/dev/grimporium/core/structure.php:85
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 85
+[05-Mar-2018 14:36:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/blooblah/public_html/dev/grimporium/core/structure.php:85
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 85
+[05-Mar-2018 14:36:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/blooblah/public_html/dev/grimporium/core/structure.php:85
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 85
+[05-Mar-2018 14:36:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/blooblah/public_html/dev/grimporium/core/structure.php:85
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 85
+[05-Mar-2018 14:36:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/blooblah/public_html/dev/grimporium/core/structure.php:85
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 85
+[05-Mar-2018 14:37:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/blooblah/public_html/dev/grimporium/core/structure.php:85
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 85
+[05-Mar-2018 14:37:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/blooblah/public_html/dev/grimporium/core/structure.php:85
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 85
+[05-Mar-2018 14:37:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/blooblah/public_html/dev/grimporium/core/structure.php:85
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 85
+[05-Mar-2018 14:37:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/blooblah/public_html/dev/grimporium/core/structure.php:85
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 85
+[05-Mar-2018 14:37:44 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/blooblah/public_html/dev/grimporium/core/structure.php:85
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 85
+[05-Mar-2018 14:37:44 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/blooblah/public_html/dev/grimporium/core/structure.php:85
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 85
+[05-Mar-2018 14:37:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/blooblah/public_html/dev/grimporium/core/structure.php:85
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 85
+[05-Mar-2018 14:37:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/blooblah/public_html/dev/grimporium/core/structure.php:85
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 85
+[05-Mar-2018 14:37:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/blooblah/public_html/dev/grimporium/core/structure.php:87
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 87
+[05-Mar-2018 14:37:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/blooblah/public_html/dev/grimporium/core/structure.php:87
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 87
+[05-Mar-2018 14:37:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/blooblah/public_html/dev/grimporium/core/structure.php:87
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 87
+[05-Mar-2018 14:37:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/blooblah/public_html/dev/grimporium/core/structure.php:87
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 87
+[05-Mar-2018 14:40:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/blooblah/public_html/dev/grimporium/core/structure.php:87
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 87
+[05-Mar-2018 14:40:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/blooblah/public_html/dev/grimporium/core/structure.php:87
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 87
+[05-Mar-2018 14:40:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/blooblah/public_html/dev/grimporium/core/structure.php:87
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 87
+[05-Mar-2018 14:40:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/blooblah/public_html/dev/grimporium/core/structure.php:87
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 87
+[05-Mar-2018 14:40:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/blooblah/public_html/dev/grimporium/core/structure.php:87
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 87
+[05-Mar-2018 14:40:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/blooblah/public_html/dev/grimporium/core/structure.php:87
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 87
+[05-Mar-2018 14:40:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/blooblah/public_html/dev/grimporium/core/structure.php:87
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 87
+[05-Mar-2018 14:40:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/blooblah/public_html/dev/grimporium/core/structure.php:87
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/core/init.php(6): require_once()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(11): require('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/core/structure.php on line 87
+[05-Mar-2018 14:59:40 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/blooblah/public_html/dev/grimporium/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 38
+[05-Mar-2018 14:59:40 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/blooblah/public_html/dev/grimporium/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 38
+[05-Mar-2018 15:00:39 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/blooblah/public_html/dev/grimporium/index.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 39
+[05-Mar-2018 15:00:40 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/blooblah/public_html/dev/grimporium/index.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 39
+[05-Mar-2018 15:00:42 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/blooblah/public_html/dev/grimporium/index.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 39
+[05-Mar-2018 15:00:42 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/blooblah/public_html/dev/grimporium/index.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 39
+[05-Mar-2018 15:00:43 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/blooblah/public_html/dev/grimporium/index.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 39
+[05-Mar-2018 15:00:43 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/blooblah/public_html/dev/grimporium/index.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 39
+[05-Mar-2018 15:01:13 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/blooblah/public_html/dev/grimporium/index.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 39
+[05-Mar-2018 15:01:16 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'guides' not found in /home/blooblah/public_html/dev/grimporium/index.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 39
+[05-Mar-2018 15:01:16 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/blooblah/public_html/dev/grimporium/index.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 39
+[05-Mar-2018 15:01:34 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'guides' not found in /home/blooblah/public_html/dev/grimporium/index.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 39
+[05-Mar-2018 15:03:18 America/Chicago] PHP Parse error:  syntax error, unexpected 'global' (T_GLOBAL), expecting ',' or ';' in /home/blooblah/public_html/dev/grimporium/controllers/guides_controller.php on line 7
+[05-Mar-2018 15:03:52 America/Chicago] PHP Recoverable fatal error:  Object of class page could not be converted to string in /home/blooblah/public_html/dev/grimporium/index.php on line 42
+[05-Mar-2018 15:03:52 America/Chicago] PHP Recoverable fatal error:  Object of class guides could not be converted to string in /home/blooblah/public_html/dev/grimporium/index.php on line 42
+[05-Mar-2018 15:03:52 America/Chicago] PHP Recoverable fatal error:  Object of class page could not be converted to string in /home/blooblah/public_html/dev/grimporium/index.php on line 42
+[05-Mar-2018 15:03:52 America/Chicago] PHP Recoverable fatal error:  Object of class guides could not be converted to string in /home/blooblah/public_html/dev/grimporium/index.php on line 42
+[05-Mar-2018 15:03:53 America/Chicago] PHP Recoverable fatal error:  Object of class page could not be converted to string in /home/blooblah/public_html/dev/grimporium/index.php on line 42
+[05-Mar-2018 15:03:53 America/Chicago] PHP Recoverable fatal error:  Object of class guides could not be converted to string in /home/blooblah/public_html/dev/grimporium/index.php on line 42
+[05-Mar-2018 15:03:53 America/Chicago] PHP Recoverable fatal error:  Object of class page could not be converted to string in /home/blooblah/public_html/dev/grimporium/index.php on line 42
+[05-Mar-2018 15:05:09 America/Chicago] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/blooblah/public_html/dev/grimporium/index.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 45
+[05-Mar-2018 15:05:09 America/Chicago] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/blooblah/public_html/dev/grimporium/index.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 45
+[05-Mar-2018 15:05:10 America/Chicago] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/blooblah/public_html/dev/grimporium/index.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 45
+[05-Mar-2018 15:05:17 America/Chicago] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/blooblah/public_html/dev/grimporium/index.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 44
+[05-Mar-2018 15:05:18 America/Chicago] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/blooblah/public_html/dev/grimporium/index.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 44
+[05-Mar-2018 15:05:58 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/blooblah/public_html/dev/grimporium/index.php on line 44
+[05-Mar-2018 15:05:58 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/blooblah/public_html/dev/grimporium/index.php on line 44
+[05-Mar-2018 15:05:59 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/blooblah/public_html/dev/grimporium/index.php on line 44
+[05-Mar-2018 15:05:59 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/blooblah/public_html/dev/grimporium/index.php on line 44
+[05-Mar-2018 15:06:00 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/blooblah/public_html/dev/grimporium/index.php on line 44
+[05-Mar-2018 15:06:00 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/blooblah/public_html/dev/grimporium/index.php on line 44
+[05-Mar-2018 15:06:05 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/blooblah/public_html/dev/grimporium/index.php on line 44
+[05-Mar-2018 15:06:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function call_user_method() in /home/blooblah/public_html/dev/grimporium/index.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 43
+[05-Mar-2018 15:06:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function call_user_method() in /home/blooblah/public_html/dev/grimporium/index.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 43
+[05-Mar-2018 15:06:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function call_user_method() in /home/blooblah/public_html/dev/grimporium/index.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 43
+[05-Mar-2018 15:08:40 America/Chicago] PHP Fatal error:  Class 'page' not found in /home/blooblah/public_html/dev/grimporium/controllers/guides_controller.php on line 2
+[05-Mar-2018 15:08:40 America/Chicago] PHP Fatal error:  Class 'page' not found in /home/blooblah/public_html/dev/grimporium/controllers/guides_controller.php on line 2
+[05-Mar-2018 15:08:41 America/Chicago] PHP Fatal error:  Class 'page' not found in /home/blooblah/public_html/dev/grimporium/controllers/guides_controller.php on line 2
+[05-Mar-2018 15:09:15 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:09:16 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:09:17 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:09:27 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:09:27 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:09:28 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:09:29 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:09:34 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:09:35 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:09:35 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:09:37 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:10:09 America/Chicago] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/blooblah/public_html/dev/grimporium/controllers/guides_controller.php on line 13
+[05-Mar-2018 15:10:09 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:10:10 America/Chicago] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/blooblah/public_html/dev/grimporium/controllers/guides_controller.php on line 13
+[05-Mar-2018 15:10:10 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:10:15 America/Chicago] PHP Parse error:  syntax error, unexpected 'global' (T_GLOBAL), expecting function (T_FUNCTION) or const (T_CONST) in /home/blooblah/public_html/dev/grimporium/controllers/guides_controller.php on line 3
+[05-Mar-2018 15:10:15 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:10:15 America/Chicago] PHP Parse error:  syntax error, unexpected 'global' (T_GLOBAL), expecting function (T_FUNCTION) or const (T_CONST) in /home/blooblah/public_html/dev/grimporium/controllers/guides_controller.php on line 3
+[05-Mar-2018 15:10:15 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:10:16 America/Chicago] PHP Parse error:  syntax error, unexpected 'global' (T_GLOBAL), expecting function (T_FUNCTION) or const (T_CONST) in /home/blooblah/public_html/dev/grimporium/controllers/guides_controller.php on line 3
+[05-Mar-2018 15:10:16 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:10:19 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:10:20 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:10:21 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:10:22 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:10:23 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:10:36 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:10:37 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:10:37 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:10:38 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:10:53 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:10:53 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:10:54 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:10:55 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:12:28 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:12:29 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:12:30 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:12:45 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:12:45 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:12:46 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:12:46 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:13:14 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:13:49 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:13:53 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:15:21 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:15:22 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:15:23 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:15:35 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:15:36 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:22:36 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:22:36 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:23:10 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:23:11 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:23:11 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/blooblah/public_html/dev/grimporium/index.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 41
+[05-Mar-2018 15:23:11 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:23:11 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/blooblah/public_html/dev/grimporium/index.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 41
+[05-Mar-2018 15:23:12 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:23:12 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/blooblah/public_html/dev/grimporium/index.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 41
+[05-Mar-2018 15:23:12 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:23:13 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/blooblah/public_html/dev/grimporium/index.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 41
+[05-Mar-2018 15:23:13 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:23:13 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/blooblah/public_html/dev/grimporium/index.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 41
+[05-Mar-2018 15:23:14 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:23:14 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/blooblah/public_html/dev/grimporium/index.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 41
+[05-Mar-2018 15:23:15 America/Chicago] PHP Fatal error:  Cannot declare class page, because the name is already in use in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 0
+[05-Mar-2018 15:23:16 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/blooblah/public_html/dev/grimporium/index.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 41
+[05-Mar-2018 15:23:34 America/Chicago] PHP Fatal error:  Uncaught Error: Class '' not found in /home/blooblah/public_html/dev/grimporium/index.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 37
+[05-Mar-2018 15:23:34 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/blooblah/public_html/dev/grimporium/index.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 37
+[05-Mar-2018 15:23:35 America/Chicago] PHP Fatal error:  Uncaught Error: Class '' not found in /home/blooblah/public_html/dev/grimporium/index.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 37
+[05-Mar-2018 15:23:35 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/blooblah/public_html/dev/grimporium/index.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 37
+[05-Mar-2018 15:23:35 America/Chicago] PHP Fatal error:  Uncaught Error: Class '' not found in /home/blooblah/public_html/dev/grimporium/index.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 37
+[05-Mar-2018 15:23:35 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/blooblah/public_html/dev/grimporium/index.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 37
+[05-Mar-2018 15:23:57 America/Chicago] PHP Fatal error:  Uncaught Error: Class '' not found in /home/blooblah/public_html/dev/grimporium/index.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 37
+[05-Mar-2018 16:05:37 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'controller' not found in /home/blooblah/public_html/dev/grimporium/index.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 58
+[05-Mar-2018 16:05:37 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'controller' not found in /home/blooblah/public_html/dev/grimporium/index.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 58
+[05-Mar-2018 16:05:37 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'controller' not found in /home/blooblah/public_html/dev/grimporium/index.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 58
+[05-Mar-2018 16:05:37 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'controller' not found in /home/blooblah/public_html/dev/grimporium/index.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 58
+[05-Mar-2018 16:05:38 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'controller' not found in /home/blooblah/public_html/dev/grimporium/index.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 58
+[05-Mar-2018 16:05:38 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'controller' not found in /home/blooblah/public_html/dev/grimporium/index.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 58
+[05-Mar-2018 16:07:24 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/blooblah/public_html/dev/grimporium/index.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 63
+[05-Mar-2018 16:07:24 America/Chicago] PHP Fatal error:  Uncaught Error: Class '' not found in /home/blooblah/public_html/dev/grimporium/index.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 63
+[05-Mar-2018 16:07:24 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/blooblah/public_html/dev/grimporium/index.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 63
+[05-Mar-2018 16:07:25 America/Chicago] PHP Fatal error:  Uncaught Error: Class '' not found in /home/blooblah/public_html/dev/grimporium/index.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 63
+[05-Mar-2018 16:07:25 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/blooblah/public_html/dev/grimporium/index.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 63
+[05-Mar-2018 16:07:25 America/Chicago] PHP Fatal error:  Uncaught Error: Class '' not found in /home/blooblah/public_html/dev/grimporium/index.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 63
+[05-Mar-2018 16:07:26 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/blooblah/public_html/dev/grimporium/index.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 63
+[05-Mar-2018 16:07:58 America/Chicago] PHP Fatal error:  Uncaught Error: Class '' not found in /home/blooblah/public_html/dev/grimporium/index.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 63
+[05-Mar-2018 16:07:58 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/blooblah/public_html/dev/grimporium/index.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 63
+[05-Mar-2018 16:07:59 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/blooblah/public_html/dev/grimporium/index.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 64
+[05-Mar-2018 16:07:59 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/blooblah/public_html/dev/grimporium/index.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 64
+[05-Mar-2018 16:08:01 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/blooblah/public_html/dev/grimporium/index.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 64
+[05-Mar-2018 16:08:01 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'newplayers' not found in /home/blooblah/public_html/dev/grimporium/index.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 64
+[05-Mar-2018 16:08:01 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/blooblah/public_html/dev/grimporium/index.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 64
+[05-Mar-2018 16:23:51 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'page' not found in /home/blooblah/public_html/dev/grimporium/index.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 62
+[05-Mar-2018 17:44:56 America/Chicago] PHP Recoverable fatal error:  Object of class view could not be converted to string in /home/blooblah/public_html/dev/grimporium/core/functions.php on line 56
+[05-Mar-2018 17:44:57 America/Chicago] PHP Recoverable fatal error:  Object of class view could not be converted to string in /home/blooblah/public_html/dev/grimporium/core/functions.php on line 56
+[05-Mar-2018 17:44:57 America/Chicago] PHP Recoverable fatal error:  Object of class view could not be converted to string in /home/blooblah/public_html/dev/grimporium/core/functions.php on line 56
+[05-Mar-2018 17:44:57 America/Chicago] PHP Recoverable fatal error:  Object of class view could not be converted to string in /home/blooblah/public_html/dev/grimporium/core/functions.php on line 56
+[05-Mar-2018 17:46:34 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'user' not found in /home/blooblah/public_html/dev/grimporium/index.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 44
+[05-Mar-2018 17:46:53 America/Chicago] PHP Recoverable fatal error:  Object of class page could not be converted to string in /home/blooblah/public_html/dev/grimporium/models/user.php on line 7
+[05-Mar-2018 17:46:53 America/Chicago] PHP Recoverable fatal error:  Object of class page could not be converted to string in /home/blooblah/public_html/dev/grimporium/models/user.php on line 7
+[05-Mar-2018 17:46:53 America/Chicago] PHP Recoverable fatal error:  Object of class page could not be converted to string in /home/blooblah/public_html/dev/grimporium/models/user.php on line 7
+[05-Mar-2018 17:46:54 America/Chicago] PHP Recoverable fatal error:  Object of class page could not be converted to string in /home/blooblah/public_html/dev/grimporium/models/user.php on line 7
+[05-Mar-2018 17:46:54 America/Chicago] PHP Recoverable fatal error:  Object of class page could not be converted to string in /home/blooblah/public_html/dev/grimporium/models/user.php on line 7
+[05-Mar-2018 17:47:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method view::set() in /home/blooblah/public_html/dev/grimporium/index.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 42
+[05-Mar-2018 17:47:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method view::set() in /home/blooblah/public_html/dev/grimporium/index.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 42
+[05-Mar-2018 17:47:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method view::set() in /home/blooblah/public_html/dev/grimporium/index.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 42
+[05-Mar-2018 17:47:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method view::set() in /home/blooblah/public_html/dev/grimporium/index.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 42
+[05-Mar-2018 17:47:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method view::set() in /home/blooblah/public_html/dev/grimporium/index.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 42
+[05-Mar-2018 17:47:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method view::set() in /home/blooblah/public_html/dev/grimporium/index.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 42
+[05-Mar-2018 17:47:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method view::set() in /home/blooblah/public_html/dev/grimporium/index.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 42
+[05-Mar-2018 17:48:51 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'view' not found in /home/blooblah/public_html/dev/grimporium/index.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 41
+[05-Mar-2018 17:51:09 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get() on string in /home/blooblah/public_html/dev/grimporium/index.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 66
+[05-Mar-2018 17:51:09 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get() on string in /home/blooblah/public_html/dev/grimporium/index.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 66
+[05-Mar-2018 17:51:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get() on string in /home/blooblah/public_html/dev/grimporium/index.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 66
+[05-Mar-2018 17:53:12 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'view' not found in /home/blooblah/public_html/dev/grimporium/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 38
+[05-Mar-2018 18:04:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method page::title() in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php:23
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/views/header.php(6): page->the_title()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(63): include('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 23
+[05-Mar-2018 18:04:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method page::title() in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php:23
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/views/header.php(6): page->the_title()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(63): include('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 23
+[05-Mar-2018 18:04:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method page::title() in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php:23
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/views/header.php(6): page->the_title()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(63): include('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 23
+[05-Mar-2018 18:04:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method page::title() in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php:23
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/views/header.php(6): page->the_title()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(63): include('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 23
+[05-Mar-2018 18:04:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method page::title() in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php:23
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/views/header.php(6): page->the_title()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(63): include('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 23
+[05-Mar-2018 18:05:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method page::title() in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php:23
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/views/header.php(6): page->the_title()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(63): include('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 23
+[05-Mar-2018 18:05:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method page::page_title() in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php:23
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/views/header.php(6): page->the_title()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(63): include('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 23
+[05-Mar-2018 18:05:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method page::page_title() in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php:23
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/views/header.php(6): page->the_title()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(63): include('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 23
+[05-Mar-2018 18:05:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method page::page_title() in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php:23
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/views/header.php(6): page->the_title()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(63): include('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 23
+[05-Mar-2018 18:05:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method page::page_title() in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php:23
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/views/header.php(6): page->the_title()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(63): include('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 23
+[05-Mar-2018 18:05:21 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method page::page_title() in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php:23
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/views/header.php(6): page->the_title()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(63): include('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 23
+[05-Mar-2018 18:05:21 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method page::page_title() in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php:23
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/views/header.php(6): page->the_title()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(63): include('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 23
+[05-Mar-2018 18:05:21 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method page::page_title() in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php:23
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/views/header.php(6): page->the_title()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(63): include('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 23
+[05-Mar-2018 18:05:21 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method page::page_title() in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php:23
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/views/header.php(6): page->the_title()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(63): include('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 23
+[05-Mar-2018 18:05:21 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method page::page_title() in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php:23
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/views/header.php(6): page->the_title()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(63): include('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 23
+[05-Mar-2018 18:05:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method page::page_title() in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php:23
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/views/header.php(6): page->the_title()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(63): include('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 23
+[05-Mar-2018 18:05:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method page::page_title() in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php:23
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/views/header.php(6): page->the_title()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(63): include('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 23
+[05-Mar-2018 18:05:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method page::page_title() in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php:23
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/views/header.php(6): page->the_title()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(63): include('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 23
+[05-Mar-2018 18:05:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method page::page_title() in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php:23
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/views/header.php(6): page->the_title()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(63): include('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 23
+[05-Mar-2018 18:05:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method page::page_title() in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php:23
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/views/header.php(6): page->the_title()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(63): include('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 23
+[05-Mar-2018 18:05:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method page::page_title() in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php:23
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/views/header.php(6): page->the_title()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(63): include('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 23
+[05-Mar-2018 18:05:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method page::page_title() in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php:23
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/views/header.php(6): page->the_title()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(63): include('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 23
+[05-Mar-2018 18:05:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method page::page_title() in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php:23
+Stack trace:
+#0 /home/blooblah/public_html/dev/grimporium/views/header.php(6): page->the_title()
+#1 /home/blooblah/public_html/dev/grimporium/index.php(63): include('/home/blooblah/...')
+#2 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/controllers/page_controller.php on line 23
+[05-Mar-2018 18:06:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method page::setTitle() in /home/blooblah/public_html/dev/grimporium/index.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 41
+[05-Mar-2018 18:06:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method page::setTitle() in /home/blooblah/public_html/dev/grimporium/index.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 41
+[05-Mar-2018 18:06:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method page::setTitle() in /home/blooblah/public_html/dev/grimporium/index.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 41
+[05-Mar-2018 18:06:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method page::setTitle() in /home/blooblah/public_html/dev/grimporium/index.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 41
+[05-Mar-2018 18:06:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method page::setTitle() in /home/blooblah/public_html/dev/grimporium/index.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 41
+[05-Mar-2018 18:06:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method page::setTitle() in /home/blooblah/public_html/dev/grimporium/index.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/blooblah/public_html/dev/grimporium/index.php on line 41
