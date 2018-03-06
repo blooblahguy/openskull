@@ -1,9 +1,49 @@
 <?
 	if (! $base_dir) {exit();}
 
-	$events = array();
-	function triggerEvent() {
+	$atl_options = array();
+	function getOption($name) {
+		global $atl_options;
+		if (empty($atl_options)) {
+			$ops = $db->query("SELECT * FROM ".ATL_DB_PREFIX."options");
+			while ($o = $ops->fetch_assoc()) {
+				$atl_options[$o['name']] = $o['value'];
+			}
+		}
 
+		return $atl_options[$name];
+	}
+
+	function updateOption($name, $value) {
+		global $atl_options;
+		$atl_options[$name] = $value;
+		$db->query("UPDATE ".ATL_DB_PREFIX."options SET value = '$value' WHERE name = '$name' ");
+	}
+
+	$atl_events = array();
+
+	// ex add_action(eventName, function(any, number, of, paramters) {})
+	function add_action($event, $fn, $priority = 10) {
+		global $atl_events;
+		$atl_events[$event] = isset($atl_events[$event]) ? $atl_events[$event] : array();
+		$atl_events[$event][$priority] = isset($atl_events[$event][$priority]) ? $atl_events[$event][$priority] : array();
+		$atl_events[$event][$priority][] = $fn;
+	}
+
+	// ex do_action(eventName, any, number, of, parameters)
+	function do_action($event) {
+		global $atl_events;
+
+ 		$vars = func_get_args();
+		unset($vars[0]);
+
+		$atl_events[$event] = isset($atl_events[$event]) ? $atl_events[$event] : array();
+
+		foreach ($atl_events[$event] as $event => $fns) {
+			foreach ($fns as $priority => $fn) {
+				call_user_func_array($fn, $vars);
+			}
+		}
 	}
 
 	function fetchAll($rs) {

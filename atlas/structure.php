@@ -77,10 +77,25 @@
 		)
 	);
 
-
-
-
-
+	/////////////////////////////////////////////////////////////////////////////////
+	// Probably no need to edit below this line
+	/////////////////////////////////////////////////////////////////////////////////
+	// these all run once on site initalization, unless force = 1, then they are always present
+	$defaults = array(
+		$prefix.'options' => array(
+			'entries' => array(
+				array (
+					'name' => 'site_title'
+					, 'value' => ATL_DEFAULT_TITLE
+				)
+				, array (
+					'name' => 'site_initialized'
+					, 'value' => '1'
+				)
+			)
+			, 'force' => 0
+		)
+	);
 
 
 
