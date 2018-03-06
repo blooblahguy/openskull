@@ -14,4 +14,5 @@ define("ATL_DEFAULT_TITLE", "Atlas");
 // Misc
 define("ABSPATH", getcwd());
 
+
 ?>
