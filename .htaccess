@@ -10,9 +10,9 @@ RewriteRule ^(.*)$ index.php [F,L]
 RewriteEngine On
 RewriteBase /
 RewriteRule ^index\.php$ - [L]
-RewriteRule ^css/(.*) /web/css/$1 [QSA,L]
-RewriteRule ^js/(.*) /web/js/$1 [QSA,L]
-RewriteRule ^img/(.*) /web/img/$1 [QSA,L]
+RewriteRule ^css/(.*) /atl_app/css/$1 [QSA,L]
+RewriteRule ^js/(.*) /atl_app/js/$1 [QSA,L]
+RewriteRule ^img/(.*) /atl_app/img/$1 [QSA,L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule . /index.php [L]

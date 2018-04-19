@@ -1,66 +1,52 @@
 <?php
+	error_reporting(E_ERROR | E_WARNING | E_PARSE);
 	session_start();
 	header('X-Frame-Options: GOFORIT'); 
 	header('Vary: Accept-Encoding'); 
 	include("atl_config.php");
 
 	$base_dir = getcwd();
-	$secret = "gp_12020716";
-	$cururl = strtok(parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH),"?");
-	$path = explode("/", $cururl);
+	$secret = "hal_3122018_cpc_15342";
+	$path = trim(parse_url($_SERVER["REQUEST_URI"], PHP_URL_PATH), "/");
 	
 	// load everyting first
-	require("atlas/init.php");
+	require("atl_core/init.php");
 	
-	$extend = $path[1];
-	$action = $path[2];
-	$action_id = $path[3];
-	
+	@list($controller, $action, $parameters) = explode("/", $path, 3);
+
 	$bodyClass = array();
-	$bodyClass[] = $extend;
+	$bodyClass[] = $controller;
 	$bodyClass[] = $action;
 
 	// activates the autoloader
+	// atlas core classes, we're going VC format because frankly M isn't needed for webapps
 	spl_autoload_register(function($className) {
 		global $base_dir;
+		global $atl_admin;
 		
-		if (file_exists($base_dir . "/atlas/" . $className . '.php')) {
-			require_once($base_dir . "/atlas/" . $className . '.php');
-		} elseif (file_exists($base_dir . "/controllers/" . $className . '_controller.php')) {
-			require_once($base_dir . "/controllers/" . $className . '_controller.php');
-		} elseif (file_exists($base_dir . "/models/" . $className . '.php')) {
-			require_once($base_dir . "/models/" . $className . '.php');
-		} elseif (file_exists($base_dir . "/views/" . $className . '.php')) {
-			require_once($base_dir . "/views/" . $className . '.php');
+		if (file_exists($base_dir . "/atl_core/" . $className . '.php')) {
+			require_once($base_dir . "/atl_core/" . $className . '.php');
 		}
+		if ($atl_admin == "admin") {
+			if (file_exists($base_dir . "/atl_admin/controllers/" . $className . '_controller.php')) {
+				require_once($base_dir . "/atl_admin/controllers/" . $className . '_controller.php');
+			}
+		} else {
+			if (file_exists($base_dir . "/atl_web/controllers/" . $className . '_controller.php')) {
+				require_once($base_dir . "/atl_web/controllers/" . $className . '_controller.php');
+			}
+		}
+		
 	});
-
-	// atlas core classes
-	$model = new model();
+	
 	$view = new view();
-	$controller = new controller();
-	$page = new page();
 	$user = new user();
 
-	// Set Default Title
-	$page->setTitle(ATL_DEFAULT_TITLE);
-
-	// initialize the extended controller
-	if (file_exists('controllers/'.$extend.'_controller.php')) {
-		include('controllers/'.$extend.'_controller.php');
-		$$extend = new $extend;
-		if (method_exists($$extend, $action)) {
-			$$extend->{$action}($action_id);
-		}
+	if ($controller == "admin") {
+		require_once("atl_admin/admin_init.php");
+	} else {
+		require_once("atl_web/web_init.php");
 	}
-	
-	// View
-	$bodyClass[] = $view->get();
-	include(includeView("header", true));
-	if ($view) {
-		include(includeView($view->get()));
-	}
-	include(includeView("footer", true));
 		
 	// just for safety
 	mysqli_close($db);
