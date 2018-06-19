@@ -44,7 +44,7 @@
 		)
 
 		// posts/pages/guides/etc
-		, $prefix.'posts' => array(
+		, 'posts' => array(
 			'post_title' => 'VARCHAR(255)'
 			, 'post_type' => 'VARCHAR(255)'
 			, 'post_name' => 'VARCHAR(255)'
@@ -54,14 +54,14 @@
 			, 'post_slug' => "VARCHAR(255)"
 			, 'comment_count' => "INT({$intlen}) UNSIGNED"
 		)
-		, $prefix.'postmeta' => array(
+		, 'postmeta' => array(
 			'post_id' => "INT({$intlen})"
 			, 'meta_key' => 'VARCHAR(255)'
 			, 'meta_value' => 'LONGTEXT'
 		)
 
 		// users
-		, $prefix.'users' => array(
+		, 'users' => array(
 			'login' => 'VARCHAR(255)'
 			, 'name' => 'VARCHAR(255)'
 			, 'nickname' => 'VARCHAR(255)'
@@ -71,21 +71,21 @@
 			, 'last_login' => 'DATETIME'
 			, 'activation_key' => 'VARCHAR(255)'
 		)
-		, $prefix.'usermeta' => array(
+		, 'usermeta' => array(
 			'user_id' => "INT({$intlen}) UNSIGNED"
 			, 'meta_key' => 'VARCHAR(255)'
 			, 'meta_value' => 'LONGTEXT'
 		)
 
 		// tags
-		, $prefix.'tags' => array(
+		, 'tags' => array(
 			'tag_name' => "VARCHAR(255)"
 			, 'tag_type' => "VARCHAR(255)"
 			, 'description' => "LONGTEXT"
 			, 'parent_id' => "INT({$intlen}) UNSIGNED"
 			, 'parent_objects' => "LONGTEXT"
 		)
-		, $prefix.'tagmeta' => array(
+		, 'tagmeta' => array(
 			'tag_id' => "INT({$intlen}) UNSIGNED"
 			, 'parent_type' => "VARCHAR(255)"
 			, 'parent_id' => "INT({$intlen}) UNSIGNED"
