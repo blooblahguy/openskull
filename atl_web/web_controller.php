@@ -1,5 +1,0 @@
-<?
-	class web extends app {
-
-	}
-?>

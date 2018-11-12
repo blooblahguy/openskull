@@ -1,8 +1,6 @@
 <?php
 	error_reporting(E_ERROR | E_WARNING | E_PARSE);
 	session_start();
-	header('X-Frame-Options: GOFORIT'); 
-	header('Vary: Accept-Encoding'); 
 	include("atl_config.php");
 
 	// Tell PHP that we're using UTF-8 strings until the end of the script
@@ -37,8 +35,8 @@
 				require_once($base_dir . "/atl_admin/controllers/" . $className . '_controller.php');
 			}
 		} else {
-			if (file_exists($base_dir . "/atl_web/controllers/" . $className . '_controller.php')) {
-				require_once($base_dir . "/atl_web/controllers/" . $className . '_controller.php');
+			if (file_exists($base_dir . "/atl_app/controllers/" . $className . '_controller.php')) {
+				require_once($base_dir . "/atl_app/controllers/" . $className . '_controller.php');
 			}
 		}
 		
@@ -50,7 +48,7 @@
 	if ($controller == "admin") {
 		require_once("atl_admin/admin_init.php");
 	} else {
-		require_once("atl_web/web_init.php");
+		require_once("atl_app/app_init.php");
 	}
 		
 	// just for safety

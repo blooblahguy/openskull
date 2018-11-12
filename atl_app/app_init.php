@@ -1,11 +1,11 @@
 <?php
 
-	require_once("web_controller.php");
+	require_once("app_controller.php");
 
 	// try to include children controllers
 	if (isset($controller)) {
 		$view->setTitle(ucwords($controller));
-		if ( file_exists($base_dir . '/atl_web/controllers/'.$controller.'_controller.php') ) {
+		if ( file_exists($base_dir . '/atl_app/controllers/'.$controller.'_controller.php') ) {
 			$controller = new $controller;
 		}
 	}
@@ -24,7 +24,7 @@
 	include_once("atl_app/functions.php");
 
 	// View
-	$view->setDirectory($base_dir."/atl_web");
+	$view->setDirectory($base_dir."/atl_app");
 	include($view->fetch("header", true));
 	include($view->get());
 	include($view->fetch("footer", true));
